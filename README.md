@@ -18,7 +18,7 @@ I was evaluated on the following three points:
 
 > You can see the rendering of the dashboard here ⬇️
 
-![DASHBOARD](https://public.tableau.com/app/profile/valentin5393/viz/Valentin_MONTEIRO_P8_dashboard_05_2022/Histoire1?publish=yes)
+[DASHBOARD](https://public.tableau.com/app/profile/valentin5393/viz/Valentin_MONTEIRO_P8_dashboard_05_2022/Histoire1?publish=yes)
 
 > ## Areas of improvement
 
